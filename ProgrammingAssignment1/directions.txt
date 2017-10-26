@@ -1,0 +1,10 @@
+Description: 
+This data is about housing includes the information about the size of the house, number of bedrooms, the location and a few other features. The goal is to predict the price of the house based on these features. 
+
+Using 30/70 test/train split(30% test and 70% train):
+1) Implement a gradient descent algorithm that can do regression and predicts the price. 
+Report the mean squared error for train and test. 
+2) Choose a threshold T and assume all the houses with a price larger than T are labeled as expensive and the rest are labeled as non-expensive. Implement a simple perceptron that can classify the houses as expensive/non-expensive for you. Report accuracy for train and test.
+You are free to use any language, but the algorithms should be implemented by yourself. Data is attached.
+
+Please make a folder in your Github repository for this assignment and commit your code there. Then post the link to the repository + results, here in canvas. 
