@@ -1,0 +1,14 @@
+This folder contains the project assignment "Try different features and algorithms".
+
+Instructions:
+Some of you have already a working model after the previous assignment, and some still have not completed that. 
+For the next deadline, I would like to see some results from your models. So, what I need is really an evaluation
+of your working model using the evaluation metrics that make sense for your task, this includes accuracy, Precision, 
+Recall, F1, or maybe something specific for your task.
+
+Evaluate your features try a few different learning algorithms. 
+Describe what algorithms and via which tools you have used.  
+Evaluate various models and report performance of your model on your test data. 
+You can provide the evaluation on your test data or use cross-validation. 
+Please be communicative about it and let me know what is your approach for improving your initial results. 
+Post your main test results on canvas and codes on your GitHub repository.
